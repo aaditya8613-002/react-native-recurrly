@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "react_native_recurrly",
-    "slug": "react_native_recurrly",
+    "name": "SubHub",
+    "slug": "subhub",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "reactnativerecurrly",
+    "scheme": "subhub",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
